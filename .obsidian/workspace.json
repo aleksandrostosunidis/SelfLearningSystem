@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "2bee6175df6ca2f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f85847fd028af285",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ae9c2a3ee6c9dc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A.T./Resources/Notes/HTB Academy/Junior Cybersecurity Analyst/01-Introduction-to-Information-Security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-Introduction-to-Information-Security"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e1c4fd86038fb15",
+    "type": "split",
+    "children": [
+      {
+        "id": "555e63ec1327d719",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebc0d590c1f7af3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a616a8ea6da71ce6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "315fa301f08a2594",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "411def095050435a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4297806086e44aca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3523eab2f5696f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A.T./Resources/Notes/HTB Academy/Junior Cybersecurity Analyst/01-Introduction-to-Information-Security.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3ab3b3cf1bf15bb6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A.T./Resources/Notes/HTB Academy/Junior Cybersecurity Analyst/01-Introduction-to-Information-Security.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "93570520683f7fa5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "94d4e5beb3582836",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5239ea3591a9931e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A.T./Resources/Notes/HTB Academy/Junior Cybersecurity Analyst/01-Introduction-to-Information-Security.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0ae9c2a3ee6c9dc7",
+  "lastOpenFiles": [
+    "A.T./Resources/Notes/HTB Academy/Junior Cybersecurity Analyst/01-Introduction-to-Information-Security.md",
+    "A.T./Resources/Notes/HTB Academy/Junior Cybersecurity Analyst",
+    "A.T./Resources/Notes/HTB Academy",
+    "A.T./Resources/Notes",
+    "A.T./Resources"
+  ]
+}
